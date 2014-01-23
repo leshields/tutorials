@@ -4,15 +4,21 @@ The purpose of this talk is to learn how to create WP custom post types and cust
 
 ### Custom Post Types
 
+What is a custom post type?
+Why would we want to create them inside a plugin rather than inside the theme?
 
 ### Creating Advanced Custom Fields
 
+Free, but Add-Ons cost (I have a license for Repeater Field)
 
 ### Retrieving ACF Data
 
 
 ### ASSIGNMENT
 
+1. Create the plugin for Haxiom custom post type "member"
+2. Create the ACF fields
+3. Use ACF documentation to modify haxiom theme and add data to member post type
 
 ### RESOURCES
 
