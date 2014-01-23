@@ -17,8 +17,8 @@ Free, but Add-Ons cost (I have a license for Repeater Field)
 ### ASSIGNMENT
 
 1. Create the plugin for Haxiom custom post type "member"
-2. Create the ACF fields
-3. Use ACF documentation to modify haxiom theme and add data to member post type
+2. Create the ACF fields: Name, Interests (name and icon class), Social Media (name, icon class, link)
+3. Use ACF documentation to modify haxiom theme and add data to member post type. Include post thumbnail.
 
 ### RESOURCES
 
